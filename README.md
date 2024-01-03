@@ -9,7 +9,7 @@ You can also take a look at our repo for <a href="https://github.com/N1NJ10/eJPT
 [![Discord](https://img.shields.io/discord/716165691383873536?style=plastic&logo=discord)](https://discord.gg/5y3Z4QkF)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=plastic&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/fadymoheb/)
 [![Blog](https://img.shields.io/badge/Blog-Read%20me-orange?style=plastic&logo=wordpress)](https://n1nj10.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/FadyMo7eb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/discoverscripts.svg?style=social&label=Follow)](https://twitter.com/N1NJ1O)
 
 
 
